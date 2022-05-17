@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400194905669",
+    "firebase_url": "https://faz-database-default-rtdb.firebaseio.com",
+    "project_id": "faz-database",
+    "storage_bucket": "faz-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400194905669:android:cd7535f95af22f30bae52c",
+        "android_client_info": {
+          "package_name": "com.example.a3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400194905669-upvf9ccvtjfggfer7f3ero3lj77f80lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOUPkLEz4miEruVztP3UsgtNLhnwv4lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400194905669-upvf9ccvtjfggfer7f3ero3lj77f80lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
